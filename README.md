@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**jonmarques/jonmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Programação Java (Bots para Discord e Spigot Plugins)</h1>
+<p>Imagens: https://imgur.com/gO9HDH3</p>
+<p>Link: cutt.ly/matcher</p>
+<br>
+<h1>Designer Gráfico</h1>
+<p>Imagens: https://imgur.com/a/RfB0O00</p>
+<br>
+<h1>Administração de Servidores de Discord</h1>
+<p>Dark Forest eSports (100+ membros): http://prntscr.com/vyjxj9
+<br>
